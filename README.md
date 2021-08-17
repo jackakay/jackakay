@@ -4,7 +4,7 @@
 
 
 
-- I’m currently working on: Phone SelfBot
+- I’m currently working on: Smaller projects
 - I’m currently learning:  C#, working with API's and dnLib
 - How to reach me:  Jack.#9999
 
