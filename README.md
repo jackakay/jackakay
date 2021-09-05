@@ -4,8 +4,8 @@
 
 
 
-- I’m currently working on: Smaller projects
-- I’m currently learning:  C#, working with API's and dnLib
+- I’m currently working on: Rise of kingdoms utility
+- I’m currently learning:  Python, golang and creating automated bots.
 - How to reach me:  Jack.#9999
 
 
