@@ -4,10 +4,9 @@
 
 
 
-- I’m currently working on: Rise of kingdoms utility
-- I’m currently learning:  Python, golang and creating automated bots.
-- How to reach me:  Jack.#9999
-
+- I’m currently working on: Vortex
+- I’m currently learning:  python and golang. Also reading and writing to memory.
+- How to reach me:  Jack.#8730
 
 [![Haxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haxor1611&show_icons=true&theme=dark)
 )](https://github.com/Haxor1611/github-readme-stats)
