@@ -4,8 +4,8 @@
 
 
 
-- I’m currently working on: Vortex
-- I’m currently learning:  python and golang. Also reading and writing to memory.
+- I’m currently working on: Custom projects
+- I’m currently learning:  C#, .NET, API's
 - How to reach me:  Jack.#8730
 
 [![Haxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haxor1611&show_icons=true&theme=dark)
