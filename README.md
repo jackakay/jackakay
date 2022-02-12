@@ -4,9 +4,8 @@
 
 
 
-- I’m currently working on: Custom projects
-- I’m currently learning:  C#, .NET, API's
-- How to reach me:  Jack.#8730
+- C# Enthusiast
+- Programming enjoyer
 
 [![Haxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haxor1611&show_icons=true&theme=dark)
 )](https://github.com/Haxor1611/github-readme-stats)
