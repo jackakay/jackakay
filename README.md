@@ -11,5 +11,3 @@
 )](https://github.com/Haxor1611/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haxor1611&layout=compact)](https://github.com/Haxor1611/github-readme-stats)
-
