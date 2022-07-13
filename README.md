@@ -8,6 +8,7 @@
 - Programming enjoyer
 - 15 years old
 - UK 
+- Year 10, studying GCSE's
 
 
 [![Haxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haxor1611&show_icons=true&theme=dark)
