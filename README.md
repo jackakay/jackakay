@@ -11,7 +11,7 @@
 - Year 10, studying GCSE's
 
 
-[![Haxor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haxor1611&show_icons=true&theme=dark)
-)](https://github.com/Haxor1611/github-readme-stats)
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackakay&show_icons=true&theme=dark)
+)](https://github.com/jackakay/github-readme-stats)
 
 
