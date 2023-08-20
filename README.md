@@ -11,7 +11,5 @@
 - year 12
 
 
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackakay&show_icons=true&theme=dark)
-)](https://github.com/jackakay/github-readme-stats)
-
+[![Jack’s stats](https://github-readme-stats.vercel.app/api?username=jackakay)](https://github.com/anuraghazra/github-readme-stats)
 
