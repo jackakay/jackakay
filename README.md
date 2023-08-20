@@ -8,7 +8,7 @@
 - Programming enjoyer
 - 16 years old
 - UK 
-- Year 11, studying GCSE's
+- year 12
 
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackakay&show_icons=true&theme=dark)
