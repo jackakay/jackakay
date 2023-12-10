@@ -6,7 +6,7 @@
 
 - C# Enthusiast
 - Programming enjoyer
-- 16 years old
+- 17 years old
 - UK 
 - year 12
 
